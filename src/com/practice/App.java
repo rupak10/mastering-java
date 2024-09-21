@@ -2,6 +2,11 @@ package com.practice;
 
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hi there !");
+
+        InterfaceB ib = new A();
+        ib.print();
+
+        InterfaceC ic = new A();
+        ic.printC();
     }
 }
