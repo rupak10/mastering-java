@@ -2,11 +2,12 @@
 2. Thread. What is thread safe ? Thread join
 3. Functional Interface
 4. Marker Interface
-5. Collection Framework(Map, Set, List)
+5. Collection Framework (Map, Set, List)
 6. String Pool
 7. JDK, JRE, JVM, JVM architecture, JVM memory, Stack, Heap
-8. finally keyword, final keyword, finalize keyword
+8. finally keyword, final keyword, finalize keyword, transient, volatile keyword
 9. Run time, Compile time
 10. method overloading(compile time polymorphism), method overriding(run time polymorphism)
 11. Java program execution flow. How a java program is executed ?
 12. how and when garbage collector works ?
+13. Serialization. equals, hashcode method. Why do we need to override equals, hashcode methods in class ?
