@@ -1,4 +1,4 @@
-package com.practice;
+package com.practice.inheritence;
 
 public class App {
     public static void main(String[] args) {

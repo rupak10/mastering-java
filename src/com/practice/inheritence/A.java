@@ -1,4 +1,4 @@
-package com.practice;
+package com.practice.inheritence;
 
 public class A implements InterfaceB, InterfaceC {
     @Override
