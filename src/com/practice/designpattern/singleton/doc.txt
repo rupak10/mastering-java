@@ -1,0 +1,5 @@
+Singleton design pattern is used to ensure that a specific object should have one instance throughout the app.
+Use cases :
+1. Logging
+2. accessing global configuration like api keys, url, environment variables
+3. managing database connection pool
