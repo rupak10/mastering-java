@@ -1,0 +1,2 @@
+When we have many optional properties in the object,
+we can use the builder pattern to construct the object as per our need.
